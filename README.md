@@ -15,7 +15,7 @@ Komutlar
 * !fpsgerial [Yapilan Değişiklikler beğenilmediyse geri alır]
 * !internet
 
-ÖNEMLİ NOT : Server-Side script olduğu için sadece sunucunuza yüklerseniz çalışır kendiniz yükleyip bu komutları scriptin olmadığı bir sunucuda yazarsanız çalışmaz.
+ÖNEMLİ NOT : addonun olmadığı bir sunucuda yazarsanız çalışmaz.
 
 
 
@@ -36,4 +36,4 @@ Commands
 * !fpsgerial [Undo FPS Booster]
 * !internet [Internet Optimization]
 
-P.S : This is a server-side script so it just works on server if you added as addon to your server.
+
