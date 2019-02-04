@@ -1,4 +1,4 @@
-hook.Add( "OnPlayerChat", "HelloCommand", function( ply, strText, bTeam, bDead )
+hook.Add( "OnPlayerChat", "fps", function( ply, strText, bTeam, bDead )
 	if ( ply != LocalPlayer() ) then return end
 
 	strText = string.lower( strText ) -- 
