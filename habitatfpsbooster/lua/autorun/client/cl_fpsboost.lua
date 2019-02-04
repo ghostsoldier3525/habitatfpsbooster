@@ -76,8 +76,6 @@ if ( ply != LocalPlayer() ) then return end
 		RunConsoleCommand( "cl_pred_optimize", "2" )
 		RunConsoleCommand( "cl_smooth", "0" )
 		RunConsoleCommand( "cl_smoothtime", "0.1" )
-		RunConsoleCommand( "cl_updaterate ", "40" )
-		RunConsoleCommand( "rate 35000", "8" )
 		return true -- 
 	end
 
