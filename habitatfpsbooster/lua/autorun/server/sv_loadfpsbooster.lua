@@ -1,50 +1,27 @@
--- its just a console msg chill mate
+-- Konsol Mesajı
 
 
 
 MsgC (Color(math.random(5,10),math.random(5,35),math.random(5,250)), [[
 ---------------------------------------------
-HabitatFPSBooster baristaner tarafindan 
-yazilmistir.
-
+HabitatFPSBooster Yüklü!
 *Komutlar girildiginde donma olabilir!
 
 Komutlar !fps - !fpsgerial - !internet
 
-        HabitatRP : 94.23.171.15:13400
+       
         Discord : https://discord.gg/JHD8j3j
 ----------------------------------------------
 
 ---------------------------------------------
-Coded by baristaner
+FPS Booster is Insalled!
 
 *when you entered the commands might be freezes your computer but its temporary!
 
 Commands !fps - !fpsgerial - !internet
 
-        HabitatRP : 94.23.171.15:13400
         Discord : https://discord.gg/JHD8j3j
 ----------------------------------------------
-
-╔╗─╔╗╔═══╗╔══╗─╔══╗╔════╗╔═══╗╔════╗
-║║─║║║╔═╗║║╔╗║─╚╣─╝║╔╗╔╗║║╔═╗║║╔╗╔╗║
-║╚═╝║║║─║║║╚╝╚╗─║║─╚╝║║╚╝║║─║║╚╝║║╚╝
-║╔═╗║║╚═╝║║╔═╗║─║║───║║──║╚═╝║──║║──
-║║─║║║╔═╗║║╚═╝║╔╣─╗──║║──║╔═╗║──║║──
-╚╝─╚╝╚╝─╚╝╚═══╝╚══╝──╚╝──╚╝─╚╝──╚╝──
-               ╔═══╗╔═══╗╔═══╗
-               ║╔══╝║╔═╗║║╔═╗║
-               ║╚══╗║╚═╝║║╚══╗
-               ║╔══╝║╔══╝╚══╗║
-               ║║───║║───║╚═╝║
-               ╚╝───╚╝───╚═══╝
-╔══╗─╔═══╗╔═══╗╔═══╗╔════╗╔═══╗╔═══╗
-║╔╗║─║╔═╗║║╔═╗║║╔═╗║║╔╗╔╗║║╔══╝║╔═╗║
-║╚╝╚╗║║─║║║║─║║║╚══╗╚╝║║╚╝║╚══╗║╚═╝║
-║╔═╗║║║─║║║║─║║╚══╗║──║║──║╔══╝║╔╗╔╝
-║╚═╝║║╚═╝║║╚═╝║║╚═╝║──║║──║╚══╗║║║╚╗
-╚═══╝╚═══╝╚═══╝╚═══╝──╚╝──╚═══╝╚╝╚═╝               
-
 ----------------------------------------------
 
   ]])
