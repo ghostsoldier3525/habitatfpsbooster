@@ -2,7 +2,7 @@ hook.Add( "OnPlayerChat", "fps", function( ply, strText, bTeam, bDead )
 	if ( ply != LocalPlayer() ) then return end
 
 	strText = string.lower( strText ) -- 
-
+        
 	if ( strText == "!fps" ) then -- 
 		ply:ChatPrint( "[HabitatFPSBooster] FPS Basari ile yukseltildi" )
 		RunConsoleCommand( "mat_antialias", "0" )
@@ -28,6 +28,20 @@ hook.Add( "OnPlayerChat", "fps", function( ply, strText, bTeam, bDead )
 		RunConsoleCommand( "cl_detailfade", "800" )
 		RunConsoleCommand( "cl_smooth", "0" )
 		RunConsoleCommand( "m9kgaseffect", "0" )
+		RunConsoleCommand( "mat_bloom_scalefactor_scalar", "1" )
+                RunConsoleCommand( "cl_detaildist", "2" )
+                RunConsoleCommand( "cl_detailfade", "1" )	
+		RunConsoleCommand( "r_WaterDrawReflection", "0" )
+                RunConsoleCommand( "r_waterforceexpensive", "0" )
+                RunConsoleCommand( "r_shadows", "0" )
+                RunConsoleCommand( "mat_disable_bloom", "1" )
+		RunConsoleCommand( "r_threaded_client_shadow_manager", "1" )
+                RunConsoleCommand( "r_threaded_particles", "1" )
+                RunConsoleCommand( "r_threaded_renderables", "1" )
+                RunConsoleCommand( "r_queued_ropes", "1" )
+                RunConsoleCommand( "r_drawmodeldecals", "0" )
+                RunConsoleCommand( "mat_queue_mode", "-1" )
+                RunConsoleCommand( "studio_queue_mode", "1" )	
 		return true -- 
 	end
 
