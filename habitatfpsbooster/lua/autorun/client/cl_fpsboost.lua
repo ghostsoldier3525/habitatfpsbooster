@@ -82,7 +82,6 @@ if ( ply != LocalPlayer() ) then return end
 
 	if ( strText == "!internet" ) then -- 
 		ply:ChatPrint( "[HabitatFPSBooster] Internet ayarlari optimize edildi" )
-		RunConsoleCommand( "cl_cmdrate", "40" )
 		RunConsoleCommand( "cl_interp", "0" )
 		RunConsoleCommand( "cl_interp_ratio", "2" )
 		RunConsoleCommand( "cl_lagcompensation", "1" )
