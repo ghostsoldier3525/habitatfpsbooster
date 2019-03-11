@@ -4,6 +4,8 @@
 
 Türkçe 
 
+En iyi görsel için oyun ayarlarınızı yükseğe çekiniz bu sayede hem kaliteden düşmeden hem fps yüksek oynayabiliceksiniz.
+
 * Oyunun görüntü kalitesini bozmaz oyun piksel piksel olmaz
 * İçinde Üç Adet komut bulundarmaktadır.
 * DarkRP,TTT,Sandbox vb. tüm modlarda çalışmaktadır.
@@ -25,6 +27,8 @@ Komutlar
 
 
 ENGLISH 
+
+Put your graphics settings to high if you dont wanna mess with quality.
 
 * Doesnt change game quality too much
 * Three commands in it
