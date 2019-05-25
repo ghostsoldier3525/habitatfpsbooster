@@ -1,5 +1,4 @@
 ![fpsbooster](https://user-images.githubusercontent.com/26165265/52517353-675f9f00-2c4b-11e9-8ffa-49f78c83196d.jpg)
-![fpsboosterconfig](![fpsbooster](https://user-images.githubusercontent.com/26165265/52517353-675f9f00-2c4b-11e9-8ffa-49f78c83196d.jpg))
 
 
 
