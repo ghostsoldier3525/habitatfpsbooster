@@ -13,13 +13,14 @@ En iyi görsel için oyun ayarlarınızı yükseğe çekiniz bu sayede hem kalit
 * İçinde 23 adet konsol komutu vardır.
 * İnternet Optimizasyonu 
 * İçinde Lag düşürücü komut bulundurmaktadır.
+* NPC 
+* VGUI
+
+baristaner/config.lua'dan ayarlarınızı yapabilirsiniz
 
 
 Komutlar 
-
-* !fps [FPS Boosteri Aktif Eder]
-* !fpsgerial [Yapilan Değişiklikler beğenilmediyse geri alır]
-* !internet
+!fps
 
 ÖNEMLİ NOT : addonun olmadığı bir sunucuda yazarsanız çalışmaz.
 
@@ -36,12 +37,9 @@ Put your graphics settings to high if you dont wanna mess with quality.
 * No its not only enable multi-core rendering.
 * 23 console commands in.
 * Internet optimization.
+* NPC
+* vgui
 
 
-Commands
-
-* !fps [Activates FPS Booster]
-* !fpsgerial [Undo FPS Booster]
-* !internet [Internet Optimization]
-
+Chat Commands : !fps - you can change by using config.lua
 
